@@ -66,7 +66,7 @@
     <div class="col-xs-12 text-center abcen1">
         <img  id="img-logo" src="/img/dr_shoes.svg" alt=""><br>
         <!--h1 class="h1_home wow fadeIn" data-wow-delay="0.4s">Flatfy</h1-->
-        <h1 class="h3_home wow fadeIn" data-wow-delay="0.6s" style="color: #000; font-size: 30px;">Ремонт обуви №1 в Днепре!</h1>
+        <h1 class="h3_home wow fadeIn" data-wow-delay="0.6s" style="color: #000; font-size: 30px;">Ремонт обуви №1 в Днепре! Ура!</h1>
         <!--ul class="list-inline intro-social-buttons">
             <li><a href="https://twitter.com/galantiandrea" class="btn  btn-lg mybutton_cyano wow fadeIn" data-wow-delay="0.8s"><span class="network-name">Twitter</span></a>
             </li>
